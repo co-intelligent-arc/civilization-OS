@@ -1,21 +1,113 @@
-Civilization Decision-Making OS
-HT-DCM / N-DCM / CSM: A Multi-layer Operating System for Civilizational Stability
-■ Overview
+Civilization OS
 
-文明規模の意思決定は、直観・個別最適・政治的バイアスの集積によって不安定化しやすい。
-Civilization Decision-Making OS (略称: Civilization-OS) は、これを「工学的に安定化する」ための新しい意思決定フレームワークである。
+— Decision-Making Accidents in Intelligent Civilizations
 
-本OSは以下の三層で構成される。
+This repository documents an attempt to treat civilizational decision-making
+as an engineering problem rather than a moral one.
 
-1. HT-DCM (Human Twin Decision Core Model)
+What is this?
 
-個人スケールの意思決定・認知バイアス補正のための二重コア構造モデル。
+Civilization OS is a research artifact that explores why highly intelligent societies still cause catastrophic decision-making accidents.
 
-2. N-DCM (Network Decision Core Model)
+This project treats large-scale decision failure not as:
 
-複数の人間・組織・AIが参加するネットワーク意思決定の７因子モデル。
+a lack of ethics,
 
-3. CSM (Civilizational Self-Model)
+a lack of intelligence,
 
-文明の「自己理解」を構造化するモデル。
-歴史、価値、長期リスクを統合し、文明全体が崩壊パターンを回避できるよう設計されている。
+or malicious intent,
+
+but as a structural accident produced by “correct” decisions made in isolation.
+
+Why does this exist?
+
+Modern civilizations optimize faster than they can reflect.
+
+Individually rational decisions accumulate into:
+
+policy lock-in
+
+institutional rigidity
+
+narrative collapse
+
+and irreversible historical errors
+
+No single actor is “wrong”.
+The architecture itself is.
+
+Civilization OS asks a simple question:
+
+What if civilizations need an operating system —
+not to decide correctly,
+but to avoid becoming unrecoverable?
+
+Core Architecture
+
+Civilization OS consists of three interacting layers:
+
+HT-DCM — Human-Twin Decision Core Model
+
+A dual-core decision structure at the individual scale, separating:
+
+exploration (Hepta Core)
+
+and non-generative supervision (Tetra Core)
+
+Designed to prevent overconfidence, narrative closure, and self-justifying bias.
+
+N-DCM — Network Decision Core Model
+
+A network-scale decision architecture that prevents:
+
+runaway consensus,
+
+silent coordination collapse,
+
+and short-term optimization traps.
+
+CSM — Civilizational Self-Model
+
+A non-decisional modeling layer that externalizes:
+
+historical memory,
+
+long-term risk,
+
+value divergence.
+
+CSM constrains decisions without making them.
+
+What is included here?
+
+📄 Formal English paper (PDF)
+
+🧠 Japanese proto-paper (“意思決定という名の事故”)
+
+🧾 Fiction-generation incident log
+(a documented failure case that became part of the theory)
+
+This repository values traceable failure over narrative cleanliness.
+
+What this is NOT
+
+❌ Not a political proposal
+
+❌ Not an AI control doctrine
+
+❌ Not a finished system
+
+This is an incomplete architecture by design.
+
+Stability is achieved not by perfect decisions,
+but by structures that fail without becoming history.
+
+Status
+
+This project is intentionally published early.
+
+No endorsement is requested.
+No consensus is expected.
+
+Read it or ignore it —
+but do not assume civilization is stable by default.
